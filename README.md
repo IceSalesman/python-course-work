@@ -1,1 +1,2 @@
-# python-course-work
+# Projekta uzdevums: 
+Man pieder populārai videospēlei "Minecraft" serveris
